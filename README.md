@@ -12,6 +12,9 @@ Aplicación nativa iOS desarrollada con el API: https://swapi.dev/documentation
  - View Components.
  - XCTest Framework.
 
+### **Compatibilidad**:
+
+- iPhone & iPad.
 
  ### **Funcionalidades**:
 
