@@ -35,6 +35,8 @@ Aplicación nativa iOS desarrollada con el API: https://swapi.dev/documentation
 
  ### Referencias:
 
-<img src="https://github.com/moradtfc/SwapiSwiftApp/assets/15786157/d517d664-0d3d-41ae-942c-e4f6d700aaaa" alt="" width="300px">
-<img src="https://github.com/moradtfc/SwapiSwiftApp/assets/15786157/957c97d1-4131-48f5-977f-2a34bc7e130e" alt="" width="300px">
+<img src="https://github.com/moradtfc/SwapiSwiftApp/assets/15786157/1c6e5ca3-a2f7-4ea0-bba7-b9ff72513c59" alt="" width="300px">
+<img src="https://github.com/moradtfc/SwapiSwiftApp/assets/15786157/53215e38-5679-4f94-806a-6efd78840dc2" alt="" width="300px">
+
+
 
